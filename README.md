@@ -2,31 +2,18 @@
 *short pygame + pyopengl scripts*
 
 I'm trying to learn OpenGL basics over next few months. PyGame + PyOpenGL seems like a good way to get started.  
-The goal is to write a bunch of short scripts and post them on git-hub.  My coding background is mostly Matlab.  Will
+The goal is to write a bunch of short scripts and post them on git-hub.  Will
 probably start by translating some matlab scripts to pyOpenGL + pygame + numpy
 
-Overall, the plan is to start with the easiest topics and gradually work toward the really heavy stuff.  I have limited
-knowledge of the scope of opengl, but the tentative steps are:
+Overall, the plan is to start with the easiest topics and gradually work toward the really heavy stuff. The tentative steps are:
 
-* topic 1: Basics
-  * 2d scripts         
-    * keyboard input
-    * mouse input  
-  * 3d scripts
-    * moving camera
-    * moving objects
-  * surfaces
-  * lighting
-  * sub-plots
-  * review: write ~300 line script, maybe spaceship + euler planets
-
-* topic 2:  
-  * Matrices
-  * Stacks
-
-* topic 3:  other opengl
-  * three.js
-  * c++
+* 2d scripts (keyboard/mouse)      
+* 3d scripts (camera/objects)
+* surfaces/lighting
+* sub-plots/menus
+* Matrices/Stacks
+* unclear, c++ ?
+  
 ---
 ### break-out game (no upper blocks)
 

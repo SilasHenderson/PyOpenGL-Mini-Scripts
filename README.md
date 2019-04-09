@@ -1,4 +1,5 @@
 # PyOpenGL
 
-* break-out game
+* break-out
 * cube
+* snake
